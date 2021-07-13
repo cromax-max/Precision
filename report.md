@@ -23,7 +23,3 @@
 OpenJDK Runtime Environment AdoptOpenJDK-11.0.11+9 (build 11.0.11+9)  
 OpenJDK 64-Bit Server VM AdoptOpenJDK-11.0.11+9 (build 11.0.11+9, mixed mode)
 * IntelliJ IDEA
-
-## Скриншоты
-
-![Precision – Precision java 13 07 2021 19_30_05](https://user-images.githubusercontent.com/85682809/125532573-d3f0e8d3-564e-4311-8866-3275c9b21a41.png)
