@@ -16,6 +16,8 @@
 
 * [Домашнее задание к занятию «1.2. Программирование на Java: переменные, операторы, работа с отладчиком»](https://github.com/netology-code/javaqa-homeworks/tree/master/programming#readme)
 
+В качестве тестовых данных использовались данные [Задача №2 - Precision](https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2---precision)
+
 
 Тестирование производилось в следующем окружении:
 * Windows10(64-bit)
